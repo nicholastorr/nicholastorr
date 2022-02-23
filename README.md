@@ -20,10 +20,13 @@ My name is Nicholas, usually go by Nick. I am a Full-Stack Web Developer with a 
 
 - 🔭 I’m currently working on 
 
-[mbs-standoffs.com](mbs-standoffs.com) [mbs-signsupply.com](mbs-signsupply.com)
+## MBS
+[mbs-standoffs.com](mbs-standoffs.com)     [mbs-signsupply.com](mbs-signsupply.com)
  - Odoo12 ERP system as well as pgSQL database
  - Reworking site to have a Gatsby front end [Link to Github repo](https://github.com/nicholastorr/gatsby-drupal-7)
-[Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-fe)[Back-End](https://github.com/BloomTech-Labs/scribble-stadium-be)
+
+## Scribble-Stadium
+[Scribble Stadium](https://github.com/BloomTech-Labs/scribble-stadium-fe)   [Back-End](https://github.com/BloomTech-Labs/scribble-stadium-be)
 - A fun competitive game to make reading fun again
 - Kids will read a prompt and then create their own fanfiction stories and art to compete with each other for votes
 
